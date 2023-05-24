@@ -1,0 +1,9 @@
+body {
+  font-family: sans-serif;
+}
+
+buttonLabelBold {
+  font-size: 8pt;
+  font-weight: bold;
+  font-family: Arial, Verdana, Helvetica, Tahoma, sans-serif;
+}
